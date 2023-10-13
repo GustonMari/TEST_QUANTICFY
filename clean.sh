@@ -1,0 +1,1 @@
+go run ./src/erase_all.go
